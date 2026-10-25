@@ -8,23 +8,23 @@
 
 **摸摸头**（真的有手在撸）：
 
-![摸摸头](demo/pat.mp4)
+![摸摸头](demo/pat.gif)
 
 **吃罐罐**：
 
-![吃罐罐](demo/eat-can.mp4)
+![吃罐罐](demo/eat-can.gif)
 
 **打滚**：
 
-![打滚](demo/roll.mp4)
+![打滚](demo/roll.gif)
 
 **转圈圈**：
 
-![转圈圈](demo/spin.mp4)
+![转圈圈](demo/spin.gif)
 
 **兴奋跑**：
 
-![跑](demo/run.mp4)
+![跑](demo/run.gif)
 
 ## 功能
 
